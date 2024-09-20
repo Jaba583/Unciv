@@ -297,6 +297,7 @@
 		"movementCost": 1,
 		"food": 1,
 		"production": 1,
+        "defenceBonus": 0.33,
 		"occursOn": ["Coast"],
 		"uniques": ["Rare feature"]
 	},
